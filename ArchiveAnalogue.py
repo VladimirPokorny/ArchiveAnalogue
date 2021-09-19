@@ -7,26 +7,26 @@ df = pd.read_excel(xls, dtype=str)
 #print(df)
 #print(len(df.columns))
 
-with open('header.txt.txt', 'r', encoding='utf8') as file :
-    filedata = file.read()
+with open('header.txt', 'r', encoding='utf8') as file :
+    header = file.read()
+
+main = ''
 
 for i in range(len(df.index)):
-    with open('body.txt.txt', 'r', encoding='utf8') as file:
-        file = file.read()
+    with open('body.txt', 'r', encoding='utf8') as file:
+        body = file.read()
     for name, values in df.iteritems():
         print('{name}: {value}'.format(name=name, value=values[i]))
-        filedata = filedata.replace('<<' + name + '>>', str(values[0]))
+        body = body.replace('<<' + name + '>>', str(values[i]))
+    main = main + body
+    
 
-
-
-for name, values in df.iteritems():
-    print('{name}: {value}'.format(name=name, value=values[0]))
-    filedata = filedata.replace('<<' + name + '>>', str(values[0]))
-
-#print(filedata)
+filedata = header + main + '\n \end{document}'
 
 with open('file.txt', 'w', encoding='utf8') as file:
     file.write(filedata)
+
+print(filedata)
 
 os.system('pdflatex file.txt')
 
