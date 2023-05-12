@@ -1,9 +1,0 @@
-.idea
-venv
-
-*.aux
-*.log
-*.pdf
-*.xlsx
-*.txt
-*.log
