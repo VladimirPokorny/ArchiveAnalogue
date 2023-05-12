@@ -1,6 +1,10 @@
 .idea
-venv
+.DS_Store
 
+venv/
+__pycache__/
+
+*.pyc
 *.aux
 *.log
 *.pdf
