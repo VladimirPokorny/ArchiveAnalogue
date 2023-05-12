@@ -1,0 +1,1743 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ left=0mm,
+ right=0mm,
+ top=20mm,
+ bottom=20mm
+ }
+
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{tgbonum}
+\usepackage{tikz}
+
+\renewcommand{\familydefault}{\ttdefault}
+
+\begin{document}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2013-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2013-07-Tatry}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Vysoké Tatry}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{ČB}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2013-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2013-07-Tatry}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{ČB}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Minolta}   & \multicolumn{1}{|r|}{28-105} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2013-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2013-08-NATOdays}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Dny NATO, Přívoz}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{ČB}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2013-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2013-08-NATOdays}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{ČB}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Minolta}   & \multicolumn{1}{|r|}{28-105} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-01-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-01-lyzak-a}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Lyžák 2014}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{ČB}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{HP5 Plus} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-01-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-01-lyzak-a}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{ČB}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Minolta}   & \multicolumn{1}{|r|}{28-105} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-01-02 00:00:00}     & \multicolumn{5}{r|}{\large 2014-01-lyzak-b}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Lyžák 2014}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{ČB}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-01-02 00:00:00}     & \multicolumn{5}{r|}{\large 2014-01-lyzak-b}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{ČB}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Minolta}   & \multicolumn{1}{|r|}{28-105} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-02-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-02-Krkonose}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Krkonoše dovolená}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{36}    & \multicolumn{2}{|r|}{ČB}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-02-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-02-Krkonose}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{36}    & \multicolumn{1}{|r|}{ČB}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-04-Krizova-cesta}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Křížová cesta u Cábů}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fuji Superia} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-04-Krizova-cesta}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-04-Krizova-cesta-BW}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Křížová cesta u Cábů}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{39}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-04-Krizova-cesta-BW}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{39}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-04-tridni-vylet-Vranov}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Třídní výlet Vranov n. Dyjí; Zlatý list}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{39}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-04-tridni-vylet-Vranov}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{39}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-05-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-05-Jarni-vychazka}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Jarní vycházka, park, jez, Baťův kanál}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fuji Superia} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-05-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-05-Jarni-vychazka}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-05-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-05-river-action-day}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large HK; river action day}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-05-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-05-river-action-day}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-05-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-05-Vinohrady-HK}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Krkonoše, Vinohrady, Hradec Králové}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{ČB}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-05-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-05-Vinohrady-HK}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{ČB}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-07-PYM-Slovensko}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Piaristické setkání mládeže v Prievidzi}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Portra} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-07-PYM-Slovensko}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-08-Ministrantsky-tabor}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large PYM, Velehrad, Ministrantský tábor Karolinka}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Ektar} & \multicolumn{2}{|r|}{100}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-08-Ministrantsky-tabor}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-08-NG-fesr}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large NG fest Javorník}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Portra} & \multicolumn{2}{|r|}{800}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-08-NG-fesr}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-08-Tabor-Gen3}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Tábor Gen3 Dzbel u Konice}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Ektar} & \multicolumn{2}{|r|}{100}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-08-Tabor-Gen3}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large nan}     & \multicolumn{5}{r|}{\large 2014-10-Kutna Hora-HK}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Kutná Hora, Hradec Králové, }      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Ektar} & \multicolumn{2}{|r|}{100}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large nan}     & \multicolumn{5}{r|}{\large 2014-10-Kutna Hora-HK}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-10-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-10-Vojsice-Praha}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Vojšické louky; Praha; HK}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Portra} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-10-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-10-Vojsice-Praha}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-11-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-11-Martinske-hody-vystaviste}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Svatomartinské hody Strážnice; výstaviště Brno}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Portra} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-11-01 00:00:00}     & \multicolumn{5}{r|}{\large 2014-11-Martinske-hody-vystaviste}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2016-06-01 00:00:00}     & \multicolumn{5}{r|}{\large 2016-06-certoryje-MFF}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Příroda Čertoryjí, Strážnice, mezinárodní folklórní festival}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{39}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2016-06-01 00:00:00}     & \multicolumn{5}{r|}{\large 2016-06-certoryje-MFF}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{39}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2016-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2016-07-MFF-ministrantsky-tabor}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Mezinárodní folklorní festival; ministrantský tábor}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fuji Superia} & \multicolumn{2}{|r|}{200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2016-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2016-07-MFF-ministrantsky-tabor}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2016-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2016-07-tabor-ministranti-WYD-Krakow}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Ministrantksý tábor; WYD Krakow}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Portra} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2016-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2016-07-tabor-ministranti-WYD-Krakow}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2016-07-02 00:00:00}     & \multicolumn{5}{r|}{\large 2016-07-WYD-Krakow-b}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Světové dny mládeže Krakow; Polsko}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Portra} & \multicolumn{2}{|r|}{160}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2016-07-02 00:00:00}     & \multicolumn{5}{r|}{\large 2016-07-WYD-Krakow-b}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2016-07-02 00:00:00}     & \multicolumn{5}{r|}{\large 2016-07-WYD-Krakow-c}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Světové dny mládeže Krakow; Polsko}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Portra} & \multicolumn{2}{|r|}{160}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2016-07-02 00:00:00}     & \multicolumn{5}{r|}{\large 2016-07-WYD-Krakow-c}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2018-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2018-08-Offline-tyden}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Dolní Vítkovice, Vesmír, Offline týden}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{39}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2018-08-01 00:00:00}     & \multicolumn{5}{r|}{\large 2018-08-Offline-tyden}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{39}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2018-09-01 00:00:00}     & \multicolumn{5}{r|}{\large 2018-09-HK-hudebni-vecer}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Hradec Králové; Svatomartinské hody; Hudební večer; }      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2018-09-01 00:00:00}     & \multicolumn{5}{r|}{\large 2018-09-HK-hudebni-vecer}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/2.0} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2019-12-01 00:00:00}     & \multicolumn{5}{r|}{\large 2018-12-Silvestr}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Silvestr na Vesmíru}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{36}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Ilford Pan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2019-12-01 00:00:00}     & \multicolumn{5}{r|}{\large 2018-12-Silvestr}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{36}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/2.0} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2019-11-01 00:00:00}     & \multicolumn{5}{r|}{\large 2019-11-Martinske-hody}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Svatomartinské hody Strážnice; Dominika Stanislavová a Dominik Berčík}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{39}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2019-11-01 00:00:00}     & \multicolumn{5}{r|}{\large 2019-11-Martinske-hody}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{39}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/2.0} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2019-11-01 00:00:00}     & \multicolumn{5}{r|}{\large 2019-11-Narodni-trida}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Národní třída, výročí 40 let od Sametové revoluce}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak T-max} & \multicolumn{2}{|r|}{3200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2019-11-01 00:00:00}     & \multicolumn{5}{r|}{\large 2019-11-Narodni-trida}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/2.0} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2020-02-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-02-Marie-Haskova}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large portréty Marie Hašková; Kubánská; Strážnice}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2020-02-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-02-Marie-Haskova}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/2.0} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2020-03-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-03-prochazky}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Test nového fotoaparátu}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2020-03-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-03-prochazky}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon F100}   & \multicolumn{1}{|r|}{nan} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2020-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-04-svatba-Kvasnovsti}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Svatba Marie + Lukáš Kvašňovští}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak T-max} & \multicolumn{2}{|r|}{3200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2020-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-04-svatba-Kvasnovsti}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon F100}   & \multicolumn{1}{|r|}{nan} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2020-06-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-06-ukonceni-MFF-SMJ}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Ukončení MFF 2020; SMJ párty}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{COLOR}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak Portra} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2020-06-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-06-ukonceni-MFF-SMJ}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{COLOR}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon F100}   & \multicolumn{1}{|r|}{nan} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2020-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-07-SMJ-tanecni-tyden}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large párty SMJ; taneční týden}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak T-max} & \multicolumn{2}{|r|}{3200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2020-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-07-SMJ-tanecni-tyden}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon F100}   & \multicolumn{1}{|r|}{nan} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2014-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-08-vinobrani-Horakovi}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Svěcení kněží Olomouc; Žerotín; vinobraní}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2014-04-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-08-vinobrani-Horakovi}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{50 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2020-09-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-09-Hoffmanovi-Mazlovi}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large svatba Hoffmanovi; Mazlovi}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Kodak T-max} & \multicolumn{2}{|r|}{3200}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2020-09-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-09-Hoffmanovi-Mazlovi}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon F100}   & \multicolumn{1}{|r|}{nan} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2020-10-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-10-Hluchnikovi}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Předsvatební focení Markétky a Františka Hluchníkových}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{39}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2020-10-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-10-Hluchnikovi}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{39}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2020-10-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-10-Svatba-Pekni}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Svatba Mia+Mojma Pěkní; portrétní focení Eva}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{Fomapan} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2020-10-01 00:00:00}     & \multicolumn{5}{r|}{\large 2020-10-Svatba-Pekni}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon F100}   & \multicolumn{1}{|r|}{nan} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2021-03-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-03-Makro-pole}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Makrohraní v poli}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{37}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{HP5 Plus} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2021-03-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-03-Makro-pole}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{37}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon F100}   & \multicolumn{1}{|r|}{35 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2021-06-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-06-Orlicke-hory-stream}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Vesmír; Orlické hory; Brno; stream}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{HP5 Plus} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2021-06-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-06-Orlicke-hory-stream}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2021-06-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-06-rozlucka-Knebl}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Rozlučka s Ladislavem Kneblem; Pazderovi; ministrantský tábor}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{HP5 Plus} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2021-06-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-06-rozlucka-Knebl}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2021-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-07-ministrantsky-tabor}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Ministrantský tábor Valašská Bystřice}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{HP5 Plus} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2021-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-07-ministrantsky-tabor}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}\newpage
+
+\centering
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+\hline
+\multicolumn{5}{|p{9cm}|}{\small datum:}    & \multicolumn{5}{p{9cm}|}{\small číslo negativu:} \\
+\multicolumn{5}{|r|}{\large 2021-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-07-Praha-Soukalovi}        \\ \hline
+
+\multicolumn{10}{|l|}{\small motiv:}     \\
+\multicolumn{10}{|l|}{\large Praha, metro, Soukalovi - předsvatební focení}      \\ \hline
+
+
+
+\multicolumn{2}{|p{3cm}|}{počet snímků:}         & \multicolumn{2}{|p{3cm}|}{typ filmu:}      & \multicolumn{2}{|p{3cm}|}{velikost filmu:} & \multicolumn{2}{|p{5cm}|}{film:}   & \multicolumn{2}{|p{3cm}|}{ISO:}  \\
+\multicolumn{2}{|r|}{38}    & \multicolumn{2}{|r|}{BW}   & \multicolumn{2}{|r|}{135}    & \multicolumn{2}{|r|}{HP5 Plus} & \multicolumn{2}{|r|}{400}  \\ \hline
+
+\multicolumn{5}{|p{8cm}|}{\small datum:}    & \multicolumn{5}{p{8cm}|}{} \\
+\multicolumn{5}{|r|}{\large 2021-07-01 00:00:00}     & \multicolumn{5}{r|}{\large 2021-07-Praha-Soukalovi}        \\ \hline
+
+% \multicolumn{1}{|l|}{počet snímků:}         & \multicolumn{1}{|l|}{typ filmu:}  & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\
+% \multicolumn{1}{|r|}{38}    & \multicolumn{1}{|r|}{BW}    & \multicolumn{1}{|l|}{typ filmu:}         &            &            &           \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+    \multicolumn{1}{|l|}{fotoaparát:} & \multicolumn{1}{|l|}{objektiv:}\\
+\multicolumn{1}{|r|}{Nikon FM2}   & \multicolumn{1}{|r|}{35 f/1.4} \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[b!]
+    \centering
+    \begin{tikzpicture}
+    \draw (0,0) rectangle (20,15);
+\end{tikzpicture}
+\end{figure}
+ \end{document}
